@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.d.ts","./src/vite-env.d.ts","./src/components/gifform.tsx","./src/components/giftexpertapp.tsx","./src/components/giftitem.tsx","./src/components/giftlist.tsx","./src/hooks/usegifs.ts"],"version":"5.6.3"}
